@@ -5,7 +5,7 @@ import java.io.IOException;
 import org.apache.commons.io.FileUtils;
 public  class ClassB{
 	
-	static ClassB var;
+	
 	
 	public ClassB() {
 		System.out.println("constructor..");
