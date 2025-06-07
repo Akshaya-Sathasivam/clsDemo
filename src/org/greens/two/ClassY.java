@@ -15,9 +15,7 @@ public class ClassY {
 //		
 //		file.createNewFile();
 		
-		Thread.sleep(3000);
 		
-		System.out.println("hello wolrd");
 		
 		
 	}
